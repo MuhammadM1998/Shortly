@@ -2,9 +2,9 @@
   <header
     class="container relative flex items-center justify-between gap-4 py-4"
   >
-    <SVGLogo />
+    <SVGLogo class="w-32 fill-veryDarkViolet md:w-40" />
 
-    <button @click="isNavVisible = !isNavVisible">
+    <button @click="isNavVisible = !isNavVisible" aria-label="Hamburger Menu">
       <SVGHamburgerMenu class="block lg:hidden" />
     </button>
 

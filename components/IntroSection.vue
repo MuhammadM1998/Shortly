@@ -20,7 +20,7 @@
           More than just shorter links
         </h1>
 
-        <p class="text-gray">
+        <p class="text-grayishViolet">
           Build your brand's recognition and get detailed insights on how your
           links are performing
         </p>

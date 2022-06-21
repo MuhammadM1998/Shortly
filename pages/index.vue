@@ -3,6 +3,9 @@
     <TheHeader />
     <IntroSection />
     <ShortenLinkSection />
+    <StatsSection />
+    <BoostLinksSection />
+    <TheFooter />
   </div>
 </template>
 
