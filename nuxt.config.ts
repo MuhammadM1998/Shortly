@@ -20,6 +20,5 @@ export default defineNuxtConfig({
       ],
     },
   },
-  components: true,
-  modules: ['@nuxtjs/tailwindcss', 'nuxt-icons'],
+  modules: ['@nuxtjs/tailwindcss', '@pinia/nuxt'],
 });

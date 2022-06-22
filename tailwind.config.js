@@ -43,6 +43,8 @@ module.exports = {
         'boost-mobile': "url('~/assets/images/bg-boost-mobile.svg')",
         'shorten-desktop': "url('~/assets/images/bg-shorten-desktop.svg')",
         'shorten-mobile': "url('~/assets/images/bg-shorten-mobile.svg')",
+        'shorten-section':
+          'linear-gradient(to bottom, transparent 50% , #eff0f5 50%);',
         'illustration-working':
           "url('~/assets/images/illustration-working.svg')",
       },
